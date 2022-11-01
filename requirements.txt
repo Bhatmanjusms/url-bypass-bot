@@ -1,0 +1,6 @@
+pyrogram==1.4
+tgcrypto
+PyBypass
+bs4
+cloudscraper
+python-dotenv
